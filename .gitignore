@@ -1,5 +1,4 @@
 __pycache__/
 *.pyc
-IADS_coursework1_2025*.pdf
-BBD_slides.pdf
+*.pdf
 .DS_Store
